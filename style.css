@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient( #f2d9d8 0%,  #ebb9b7 20%,  #e89a97 40%, #e67975 60%, #e6635e 80%, #e8433c 100%) 
+}
+.heading{
+    width: 80% ;
+    font-size: 24px;
+    background: linear-gradient( #610324 0%, #7d042e 20%, #a1053b 40%, #ba0645 60%, #d90750 80%, #fc085d 100%);
+    color: #7edeb1;
+
+}
+.name_of_object{
+    color: #6560f7;
+    font-size: 20px;
+    
+
+
+}
